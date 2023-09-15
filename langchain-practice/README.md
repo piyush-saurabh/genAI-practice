@@ -1,0 +1,1 @@
+This repository is based on the Udemy course [LangChain- Develop LLM powered applications with LangChain](https://www.udemy.com/course/langchain/)
